@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://github.com/kareem-ahmed14/kareem-ahmed14/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/kareem-ahmed14/kareem-ahmed14/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :computer: I am currently enrolled in the **Digital Design Using FPGA** Summer Internship Sponsored by NTI
 - :technologist: I am learning **Digital Design and Digital Verification**
