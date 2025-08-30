@@ -9,7 +9,7 @@
 - :technologist: I am learning **Digital Design and Digital Verification**
 - :student: I am a **Digital Design and Digital Verification Instructor** at Breakin Point team
 - 👥 I am eager to contribute to **high-performance chip design and verification teams**
-- :email: How to reach me ahmedyasser13016@gmail.com
+- :email: How to reach me kareemahmedzagrout@gmail.com
 
 <br>
 
