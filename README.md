@@ -17,8 +17,8 @@
 ## 🌐 Connect with me
 <p 
   
-<code><a href="https://www.linkedin.com/in/ahmed-yasser-a625b6213" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-yasser" height="30" width="40" /></a></code>
-<code><a href="https://www.facebook.com/ahmed.yasser.629090?mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed-yasser" height="30" width="40" /></a></code>
+<code><a href="https://www.linkedin.com/in/kareem-zaghrout/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kareem_Zaghrout" height="30" width="40" /></a></code>
+<code><a href="https://www.facebook.com/kareem.zaghrout" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kareem_Zaghrout" height="30" width="40" /></a></code>
 </p>
 
 
